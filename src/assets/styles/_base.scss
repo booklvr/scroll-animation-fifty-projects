@@ -7,7 +7,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   @include center;
-
+  overflow-x: hidden;
   margin: 0;
 }
 
