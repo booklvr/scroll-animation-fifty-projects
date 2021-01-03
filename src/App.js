@@ -1,7 +1,8 @@
 import React from 'react'
+import ScrollAnimation from './components/ScrollAnimation'
 
 const App = () => {
-  return <h1>BoilerPlate</h1>
+  return <ScrollAnimation />
 }
 
 export default App

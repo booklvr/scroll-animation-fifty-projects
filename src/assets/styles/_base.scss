@@ -7,7 +7,14 @@
 body {
   font-family: 'Roboto', sans-serif;
   @include center;
-  height: 100vh;
-  overflow: hidden;
+
+  margin: 0;
+}
+
+root {
+  @include center;
+  background-color: #efedd6;
+  @include center;
+
   margin: 0;
 }
